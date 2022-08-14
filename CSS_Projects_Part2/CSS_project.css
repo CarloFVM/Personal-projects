@@ -1,0 +1,27 @@
+h1{
+  font-family: 'Koulen', cursive;
+  text-align:center;
+}
+.art{
+  margin: auto;
+}
+td{
+  height: 150px;
+  padding: 50px;
+  border: 6px solid white;
+}
+#one{
+  background-color: #f57b42;
+}
+#two{
+  background-color: #eff542;
+}
+#three{
+  background-color: #42f542;
+}
+#four{
+  background-color: #4242f5;
+}
+#five{
+  background-color: #f542d1;
+}
