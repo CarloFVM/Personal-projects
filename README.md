@@ -3,6 +3,8 @@ All of my personal projects
 These files have all of my personal projects.
 You are going to find  HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django.
 
+These projects were made using Python 3.10.6 and Django 4.0.6
+
 Basic_Django_Projects: Simple exercises with Python.
 
 Blog_Project_Django: Basic Blog wep page only one user that is able to make several posts with diferent topics and edit the text of the post.
